@@ -49,6 +49,6 @@ Mouse Dictionary::
 * https://chrome.google.com/webstore/detail/mouse-dictionary/dnclbikcihnpjohihfcmmldgkjnebgnj
 * https://addons.mozilla.org/en-US/firefox/addon/mousedictionary/
 
-Vimium
+Vimium::
 * https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 * https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/

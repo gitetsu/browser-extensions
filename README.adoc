@@ -52,3 +52,6 @@ Mouse Dictionary::
 Vimium::
 * https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 * https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/
+
+DeepL::
+* https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj

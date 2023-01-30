@@ -55,3 +55,6 @@ Vimium::
 
 DeepL::
 * https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj
+
+AutoplayStopper::
+* https://chrome.google.com/webstore/detail/autoplaystopper/ejddcgojdblidajhngkogefpkknnebdh

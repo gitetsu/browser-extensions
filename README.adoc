@@ -1,10 +1,9 @@
-uBlock Origin::
-* https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
-* https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+AutoplayStopper::
+* https://chrome.google.com/webstore/detail/autoplaystopper/ejddcgojdblidajhngkogefpkknnebdh
 
-Privacy Badger::
-* https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
-* https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+Browserpass::
+* https://chrome.google.com/webstore/detail/browserpass/naepdomgkenhinolocfifgehidddafch
+* https://addons.mozilla.org/en-US/firefox/addon/browserpass-ce/
 
 ClearURLs::
 * https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk
@@ -18,28 +17,11 @@ Decentraleyes::
 * https://chrome.google.com/webstore/detail/decentraleyes/ldpochfccmkkmhdbclfhpagapcfdljkj
 * https://addons.mozilla.org/en-US/firefox/addon/decentraleyes
 
-Privacy Redirect::
-* https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb
-* https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/
-
-Browserpass::
-* https://chrome.google.com/webstore/detail/browserpass/naepdomgkenhinolocfifgehidddafch
-* https://addons.mozilla.org/en-US/firefox/addon/browserpass-ce/
-
-xBrowserSync::
-* https://chrome.google.com/webstore/detail/xbrowsersync/lcbjdhceifofjlpecfpeimnnphbcjgnc
-* https://addons.mozilla.org/en-US/firefox/addon/xbs/
-
-Wayback Machine::
-* https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
-* https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
+DeepL::
+* https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj
 
 Hatena Bookmark::
 * https://chrome.google.com/webstore/detail/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF/dnlfpnhinnjdgmjfpccajboogcjocdla
-
-Wappalyzer::
-* https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
-* https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
 
 Keepa - Amazon Price Tracker::
 * https://chrome.google.com/webstore/detail/keepa-amazon-price-tracke/neebplgakaahbhdphmkckjjcegoiijjo
@@ -49,12 +31,30 @@ Mouse Dictionary::
 * https://chrome.google.com/webstore/detail/mouse-dictionary/dnclbikcihnpjohihfcmmldgkjnebgnj
 * https://addons.mozilla.org/en-US/firefox/addon/mousedictionary/
 
+Privacy Badger::
+* https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp
+* https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+
+Privacy Redirect::
+* https://chrome.google.com/webstore/detail/privacy-redirect/pmcmeagblkinmogikoikkdjiligflglb
+* https://addons.mozilla.org/en-US/firefox/addon/privacy-redirect/
+
+uBlock Origin::
+* https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+* https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
+
 Vimium::
 * https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 * https://addons.mozilla.org/en-US/firefox/addon/vimium-ff/
 
-DeepL::
-* https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj
+Wappalyzer::
+* https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+* https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/
 
-AutoplayStopper::
-* https://chrome.google.com/webstore/detail/autoplaystopper/ejddcgojdblidajhngkogefpkknnebdh
+Wayback Machine::
+* https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak
+* https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
+
+xBrowserSync::
+* https://chrome.google.com/webstore/detail/xbrowsersync/lcbjdhceifofjlpecfpeimnnphbcjgnc
+* https://addons.mozilla.org/en-US/firefox/addon/xbs/

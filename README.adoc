@@ -21,7 +21,7 @@ DeepL::
 * https://chrome.google.com/webstore/detail/deepl-translate-reading-w/cofdbpoegempjloogbagkncekinflcnj
 
 Hatena Bookmark::
-* https://chrome.google.com/webstore/detail/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF/dnlfpnhinnjdgmjfpccajboogcjocdla
+* https://chromewebstore.google.com/detail/はてなブックマーク-ブックマーク機能/baniobjofkeeahdkdnpanannchdgblni
 
 Keepa - Amazon Price Tracker::
 * https://chrome.google.com/webstore/detail/keepa-amazon-price-tracke/neebplgakaahbhdphmkckjjcegoiijjo
